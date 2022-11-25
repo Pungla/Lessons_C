@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\kuzmi\Progect\Lessons C++\Recursion\Recursion\main.cpp(12): warning C4715: Foo: значение возвращается не при всех путях выполнения
+  Recursion.vcxproj -> D:\kuzmi\Progect\Lessons C++\Recursion\Debug\Recursion.exe

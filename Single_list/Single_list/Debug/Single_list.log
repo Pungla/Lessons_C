@@ -1,0 +1,6 @@
+﻿  list.cpp
+  main.cpp
+D:\kuzmi\Progect\Lessons C++\Single_list\Single_list\main.cpp(7,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+D:\kuzmi\Progect\Lessons C++\Single_list\Single_list\list.cpp(158): warning C4715: List<int>::operator[]: значение возвращается не при всех путях выполнения
+  Single_list.vcxproj -> D:\kuzmi\Progect\Lessons C++\Single_list\Debug\Single_list.exe

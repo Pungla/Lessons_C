@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\kuzmi\Progect\Lessons C++\Dynamic_array\Dynamic_array\main.cpp(5,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Dynamic_array.vcxproj -> D:\kuzmi\Progect\Lessons C++\Dynamic_array\Debug\Dynamic_array.exe

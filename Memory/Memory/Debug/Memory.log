@@ -1,0 +1,3 @@
+﻿D:\Program Files\Microsoft Visual Studio\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (Memory.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  main.cpp
+  Memory.vcxproj -> D:\kuzmi\Progect\Lessons C++\Memory\Debug\Memory and signs.exe
